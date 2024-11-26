@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/KXkzK4f/DALL-E-2024-11-26-22-16-02-A-professional-Git-Hub-banner-for-a-web-developer-The-banner-features-ico.webp) 
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/VT2Ddqj/DALL-E-2024-11-26-22-16-05-A-professional-and-sleek-Git-Hub-banner-for-a-web-developer-The-design-in.webp)
 
 ### Hi there 👋, I'm Nobab Sarkar
 #### Web Developer
