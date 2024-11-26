@@ -1,5 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQGx_QYOEwd7mQ/profile-displaybackgroundimage-shrink_350_1400/0/1708886982868?e=1720656000&v=beta&t=yOyFo_X58TfUT3shSyJ85HMjYTh2UZE8oKGdsXgPSw0)
-
+https://i.ibb.co.com/KXkzK4f/DALL-E-2024-11-26-22-16-02-A-professional-Git-Hub-banner-for-a-web-developer-The-banner-features-ico.webp
 ### Hi there 👋, I'm Nobab Sarkar
 #### Web Developer
 
