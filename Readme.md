@@ -5,7 +5,7 @@
 I'm a dynamic MERN Stack Developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in creating responsive and interactive web applications with clean, efficient code. With a strong foundation in TypeScript, Redux, Next.js, and Mongoose, I turn ideas into seamless user experiences from concept to deployment.
 
 
-<h3 align="left">My Skills</h3>
+## <h3 align="left">My Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
