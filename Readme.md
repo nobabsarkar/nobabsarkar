@@ -36,8 +36,11 @@ I'm a dynamic frontend developer with expertise in the MERN stack - that's Mongo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-####
 
+
+
+
+.
 - 🔭 I’m currently working on My Project 
 - 🌱 I’m currently learning TypeScript/Redux/Mongoose/NextJs 
 - 💬 Ask me about Web Development 
