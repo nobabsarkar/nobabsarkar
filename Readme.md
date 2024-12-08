@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Nobab Sarkar
 ### About Me
 
-I'm a dynamic frontend developer with expertise in the MERN stack - that's MongoDB, Express.js, React.js, and Node.js. With a keen eye for design and a passion for crafting seamless user experiences, I specialize in building interactive and responsive web applications that bring ideas to life. From concept to deployment, I thrive on turning visions into reality through clean, efficient code. With a solid foundation in frontend technologies.
+I'm a dynamic MERN Stack Developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in creating responsive and interactive web applications with clean, efficient code. With a strong foundation in TypeScript, Redux, Next.js, and Mongoose, I turn ideas into seamless user experiences from concept to deployment.
 
 
 <h3 align="left">My Skills</h3>
