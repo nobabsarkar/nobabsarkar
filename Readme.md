@@ -5,6 +5,7 @@
 
 I'm a dynamic frontend developer with expertise in the MERN stack - that's MongoDB, Express.js, React.js, and Node.js. With a keen eye for design and a passion for crafting seamless user experiences, I specialize in building interactive and responsive web applications that bring ideas to life. From concept to deployment, I thrive on turning visions into reality through clean, efficient code. With a solid foundation in frontend technologies.
 
+
 <h3 align="left">My Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -35,7 +36,8 @@ I'm a dynamic frontend developer with expertise in the MERN stack - that's Mongo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-###
+
+
 
 - 🔭 I’m currently working on My Project 
 - 🌱 I’m currently learning TypeScript/Redux/Mongoose/NextJs 
