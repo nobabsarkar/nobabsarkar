@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/KXkzK4f/DALL-E-2024-11-26-22-16-02-A-professional-Git-Hub-banner-for-a-web-developer-The-banner-features-ico.webp) 
 
 ### Hi there 👋, I'm Nobab Sarkar
-### About Me
+## About Me
 I'm a dynamic MERN Stack Developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in creating responsive and interactive web applications with clean, efficient code. With a strong foundation in TypeScript, Redux, Next.js, and Mongoose, I turn ideas into seamless user experiences from concept to deployment.
 
 
