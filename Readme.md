@@ -39,6 +39,10 @@ I'm a dynamic frontend developer with expertise in the MERN stack - that's Mongo
 
 
 
+
+
+
+
 - 🔭 I’m currently working on My Project 
 - 🌱 I’m currently learning TypeScript/Redux/Mongoose/NextJs 
 - 💬 Ask me about Web Development 
