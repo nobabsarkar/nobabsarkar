@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/KXkzK4f/DALL-E-2024-11-26-22-16-02-A-professional-Git-Hub-banner-for-a-web-developer-The-banner-features-ico.webp) 
+![I am GitHub Readme Generator's creator](https://i.ibb.co/Z043Ggf/Chat-GPT-Image-Jan-10-2026-01-49-44-PM.png) 
 
 ### Hi there 👋, I'm Nobab Sarkar
 ## About Me
