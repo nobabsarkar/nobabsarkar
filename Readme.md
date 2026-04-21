@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/Z043Ggf/Chat-GPT-Image-Jan-10-2026-01-49-44-PM.png) 
+![I am GitHub Readme Generator's creator](https://miro.medium.com/v2/1*BgcUXqrJV7xNofAFWDrCkw.png) 
 
 ### Hi there 👋, I'm Nobab Sarkar
 ## About Me
