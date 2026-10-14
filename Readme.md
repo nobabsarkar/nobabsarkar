@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dl49ru2fi/image/upload/v1776767732/ChatGPT_Image_Jan_10_2026_01_49_44_PM_aywogv.png) 
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/7NkYGCtd/Screenshot-151.jpg) 
 
 ### Hi there 👋, I'm Nobab Sarkar
 ## About Me
