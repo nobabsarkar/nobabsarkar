@@ -1,4 +1,6 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/WWFDmFJ5/Nobab-Sarkar-Developer-Banner.png) 
+<p align="center">
+  <img src="https://i.ibb.co.com/WWFDmFJ5/Nobab-Sarkar-Developer-Banner.png" alt="Nobab Sarkar - Full-Stack Developer" width="100%" />
+</p>
 
 ### Hi there 👋, I'm Nobab Sarkar
 ## About Me
