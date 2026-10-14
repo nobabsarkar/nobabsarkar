@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/HfCZKfXs/Nobab-Sarkar-Tech-Portfolio-Banner-1.png) 
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/WWFDmFJ5/Nobab-Sarkar-Developer-Banner.png) 
 
 ### Hi there 👋, I'm Nobab Sarkar
 ## About Me
