@@ -4,7 +4,9 @@
 
 ### Hi there 👋, I'm Nobab Sarkar
 ## About Me
-I'm a dynamic MERN Stack Developer with expertise in MongoDB, Express.js, React.js, and Node.js. I specialize in creating responsive and interactive web applications with clean, efficient code. With a strong foundation in TypeScript, Redux, Next.js, and Mongoose, I turn ideas into seamless user experiences from concept to deployment.
+I'm a passionate Full-Stack Developer who loves building modern, scalable, and user-friendly web applications using Next.js, React, TypeScript, Node.js, PostgreSQL, and Prisma. Beyond coding, I enjoy riding bikes and exploring delicious fast food. 🚴‍♂️🍔
+
+I'm continuously working to improve my problem-solving skills and exploring Artificial Intelligence, with the goal of building smarter applications and growing into a skilled software engineer. 🚀
 
 
 
