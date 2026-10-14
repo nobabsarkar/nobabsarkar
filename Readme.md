@@ -50,7 +50,7 @@ I'm continuously working to improve my problem-solving skills and exploring Arti
 
 .
 - 🔭 I’m currently working on My Project 
-- 🌱 I’m currently learning TypeScript/Redux/Mongoose/NextJs 
+- 🌱 I’m currently learning PostgressSql/Prisma/Docker/Next.js 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: 01736691436 
 - ⚡ Fun fact: I'm a student of Programming Hero
