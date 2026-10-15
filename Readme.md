@@ -60,11 +60,11 @@ I'm continuously working to improve my problem-solving skills and exploring Arti
 
 ### 🔥 GitHub Contributions & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nobabsarkar&show_icons=true&theme=tokyonight)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nobabsarkar&layout=compact&theme=tokyonight)
 
 ### ⚡ Contribution Streak
 
