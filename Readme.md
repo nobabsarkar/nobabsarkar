@@ -56,6 +56,19 @@ I'm continuously working to improve my problem-solving skills and exploring Arti
 - ⚡ Fun fact: I'm a student of Programming Hero
 
 
+## 📊 GitHub Statistics
+
+### 🔥 GitHub Contributions & Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+### ⚡ Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 
 
